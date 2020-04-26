@@ -1,1 +1,2 @@
 # PaySa
+This project aims at developing a digital payment platform and creating a payment gateway that offers comprehensive payment services for its customers. Pay-sa is a mobile commerce platform, offering its customers a digital wallet to store money and make quick payments. It requires users to create password protected accounts; that store information such as their name, mobile number, E-mail address, wallet balance, bank account details and net banking details; in order to carry out day to day transactions in a safe and convenient environment. 
